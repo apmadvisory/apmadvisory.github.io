@@ -228,8 +228,8 @@ if ('IntersectionObserver' in window) {
 // Console Welcome Message
 // ===================================
 
-console.log('%c APM Consultancy ', 'background: #1a9b8e; color: white; font-size: 20px; padding: 10px;');
-console.log('%c Driving Results — Maximizing Impact ', 'color: #1a9b8e; font-size: 14px;');
+console.log('%c APM ', 'background: #1a9b8e; color: white; font-size: 20px; padding: 10px;');
+console.log('%c Driving Results - Maximizing Impact ', 'color: #1a9b8e; font-size: 14px;');
 
 // ===================================
 // Portfolio and Data Security Links
