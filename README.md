@@ -106,8 +106,6 @@ This repository contains the source code for the APM website.
 
 **Live Site**: [https://apmadvisory.github.io](https://apmadvisory.github.io)
 
-**Repository**: [https://github.com/apmadvisory/apmadvisory.github.io](https://github.com/apmadvisory/apmadvisory.github.io)
-
 ---
 
 # 💻 Website Documentation
