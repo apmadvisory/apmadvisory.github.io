@@ -241,10 +241,9 @@ if (portfolioLink) {
     portfolioLink.addEventListener('click', function (e) {
         e.preventDefault();
         // TODO: Replace with actual Google Drive portfolio link
-        const portfolioUrl = 'https://drive.google.com/drive/folders/YOUR_PORTFOLIO_FOLDER_ID';
-        alert('Portfolio link will be connected to Google Drive. Please update the URL in main.js');
+        const portfolioUrl = 'https://drive.google.com/drive/folders/1TjjNw3CwKUb8XbH3_KmzFWYbqcUQ8t8Y?usp=sharing';
         // Uncomment the line below once you have the actual URL
-        // window.open(portfolioUrl, '_blank');
+        window.open(portfolioUrl, '_blank');
     });
 }
 
