@@ -100,14 +100,6 @@ We collaborate with consulting firms and freelance consultants for joint project
 
 ---
 
-## 🌐 Website
-
-This repository contains the source code for the APM website.
-
-**Live Site**: [https://apmadvisory.github.io](https://apmadvisory.github.io)
-
----
-
 # 💻 Website Documentation
 
 ## Pages
